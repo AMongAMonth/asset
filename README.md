@@ -1,6 +1,6 @@
 <h1 align="center" style="max-width: 100%;">
-  <img alt="AMAM Logo" src="https://raw.githubusercontent.com/AMongAMonth/asset/main/asset/logo2.png" style="max-width: 100%;" /><br/>
-  <a href="https://play.google.com/store/apps/details?id=com.amam_travel.twa&pcampaignid=web_share/"><img alt="playstore" src="https://raw.githubusercontent.com/AMongAMonth/asset/main/asset/google.png" style="max-width: 20%;" /></a>
+  <img alt="AMAM Logo" src="https://raw.githubusercontent.com/AMongAMonth/asset/main/asset/logo2.png" style="width: 50%;" /><br/>
+  <a href="https://play.google.com/store/apps/details?id=com.amam_travel.twa&pcampaignid=web_share/"><img alt="playstore" src="https://raw.githubusercontent.com/AMongAMonth/asset/main/asset/google.png" style="width: 20%;" /></a>
 </h1>
 
 <p align="center" style="line-height: 2;">
